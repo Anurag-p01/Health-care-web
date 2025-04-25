@@ -1,2 +1,2 @@
-# Health-care-web
- Health care website landing page using html, css, tailwind
+# HEALTH-CARE
+Create an impressive and user-friendly Health Care Website Landing Page from scratch using HTML and CSS.
